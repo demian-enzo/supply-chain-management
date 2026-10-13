@@ -13,7 +13,7 @@ git clone https://github.com/demian-enzo/supply-chain-management ~/.claude/skill
 项目级可放到 `.claude/skills/supply-chain-management/`。
 
 ### Claude.ai / Claude 桌面版
-将本仓库下载为 zip，在 Settings → Capabilities → Skills 上传。
+先在 Settings → Capabilities 打开 Code execution（技能依赖它）。再把本仓库打成 zip，到 Customize → Skills 上传并启用。
 
 ### Cursor
 ```bash
